@@ -1,0 +1,28 @@
+# Dependencias
+node_modules/
+
+# Compilación
+dist/
+
+# Entorno
+.env
+
+# Sesión de WhatsApp (contiene credenciales)
+auth_info/
+sessions/
+*.json.bak
+
+# Logs
+logs/
+*.log
+
+# Archivos temporales subidos al bot
+uploads/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
